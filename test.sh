@@ -3,6 +3,7 @@ echo
 
 output=$(./a.out)
 expected_output="Hello, World!"
+expected_output=$(./test.out)
 
 if [ $? -eq 0 ] ; then
   echo "Pass: Program exited zero"
