@@ -1,4 +1,4 @@
-# Autograding Example: C
+# Autograding Example: C.
 This example project is written in C, and tested with make and bash scripts.
 
 ### The assignment
