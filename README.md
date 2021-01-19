@@ -1,14 +1,16 @@
-# Autograding Example: C.
-This example project is written in C, and tested with make and bash scripts.
+# Université d'Alger 1 
+## TP 1 : Hello World
+This example project is a `Hello World`.
 
-### The assignment
-The tests are currently failing because we're printing the wrong string. Correcting the `printf` will fix the tests.
+### The goal of this work
+The purpose of this TP is to learn how to use `git` (simple command : git init, git clone, git add, git commit, git push).
 
-### Setup command
-N/A
+### Steps
+Edit only the `hello.c` file. 
+Commit hello.c file.
 
-### Run command
-`make test`
+#### What do I have to do
+Your programme have to display 'Hello, World!'.
 
-### Notes
-- `gcc` can be used to compile and link C applications for use with existing test harnesses or C testing frameworks.
+#### How to check my answer
+Go to Actions. After your commit, you will see the result.
