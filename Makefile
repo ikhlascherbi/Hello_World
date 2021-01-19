@@ -1,8 +1,8 @@
 a.out:
-	gcc hello.c
+	gcc hello.c -o Init\a.out
 
 clean:
 	rm hello
 
 test: a.out
-	bash test.sh
+	.\Init\bash test.sh
